@@ -4,3 +4,10 @@
     font-family: Arial;
     color: black;
 }
+header{
+    box-sizing: border-box;
+    display: flex;
+    border-bottom: 1em solid black;
+    width: 100vw;
+    height: 15vh;
+}
