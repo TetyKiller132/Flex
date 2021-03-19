@@ -11,6 +11,10 @@ header{
     width: 100vw;
     height: 15vh;
 }
+header .logo img{
+    width: 5%;
+    height: 50%;
+}
 main{
     width: 100vw;
     height: 85vh;
