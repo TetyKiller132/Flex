@@ -5,6 +5,7 @@
 }
 .container-flex{
     display: flex;
+    flex-direction: row;
     width: 100vw;
     height: 100vh;
 }
@@ -13,4 +14,7 @@
     box-sizing: border-box;
     border-right: .5em solid black;
     background-color: brown;
+}
+.container-rigth{
+ width: 75vw;   
 }
