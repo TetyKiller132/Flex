@@ -4,7 +4,9 @@
     font-family: Arial;
     color: white;
 }
-
+body{
+    overflow: hidden;
+}
 main{
     display: flex;
     justify-content: space-around;
