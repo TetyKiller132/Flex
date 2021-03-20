@@ -21,4 +21,16 @@ header{
 .container-flex{
     height: 70vh;
     display: flex;
+    flex-direction: row;
+}
+.container-left{
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+}
+.container-left div{
+    width: 100%;
+    height: 75%;
+    box-sizing: border-box;
+    border: .5em solid black;
 }
