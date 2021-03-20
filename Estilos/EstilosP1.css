@@ -40,6 +40,9 @@ header{
 .container-rigth *{
     margin: 0em 2em;
 }
+header, footer h1:only-child{
+    text-align: center;
+}
 footer{
     box-sizing: border-box;
     border-top: .5em solid black;
