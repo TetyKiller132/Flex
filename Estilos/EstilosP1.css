@@ -38,9 +38,9 @@ header{
     background-color: #f8f4e1;
 }
 .container-rigth *{
-    margin: 0em 2em;
+    margin: 0em 1em;
 }
-header, footer h1:only-child{
+header h1:only-child, footer h1:only-child{
     text-align: center;
 }
 footer{
