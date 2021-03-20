@@ -7,7 +7,7 @@ header{
     box-sizing: border-box;
     width: 100vw;
     height: 15vh;
-    background-color: blueviolet;
+    background-color: #897853;
     border-bottom: .5em solid black;
 }
 .container-flex{
@@ -35,7 +35,7 @@ header{
 }
 .container-rigth{
     width: 75vw;
-    background-color: blueviolet;
+    background-color: #f8f4e1;
 }
 .container-rigth *{
     margin: 0em 2em;
@@ -46,7 +46,7 @@ header, footer h1:only-child{
 footer{
     box-sizing: border-box;
     border-top: .5em solid black;
-    background-color: blueviolet;
+    background-color: #897853;
     width: 100vw;
     height: 15vh;
 }
