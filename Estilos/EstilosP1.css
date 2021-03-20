@@ -37,6 +37,9 @@ header{
     width: 75vw;
     background-color: blueviolet;
 }
+.container-rigth *{
+    margin: 0em 2em;
+}
 footer{
     box-sizing: border-box;
     border-top: .5em solid black;
