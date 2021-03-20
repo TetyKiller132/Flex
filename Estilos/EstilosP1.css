@@ -24,3 +24,10 @@ header{
     width: 75vw;
     background-color: blueviolet;
 }
+footer{
+    box-sizing: border-box;
+    border-top: .5em solid black;
+    background-color: blueviolet;
+    width: 100vw;
+    height: 15vh;
+}
