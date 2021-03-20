@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+header{
+    width: 100vw;
+    height: 15vh;
+    box-sizing: border-box;
+    border-bottom: .5em solid black;
+    background-color: chartreuse;
+}
