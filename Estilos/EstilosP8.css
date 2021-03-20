@@ -7,6 +7,10 @@ header{
     width: 100vw;
     height: 15vh;
     background-color: #0E1E5B;
+    text-align: center;
+}
+header h1{
+    padding: .5em;
 }
 main{
     display: flex;
