@@ -32,6 +32,7 @@ header{
     height: 45%;
     box-sizing: border-box;
     border: .5em solid black;
+    background-color: aqua;
 }
 .container-center{
     width: 60vw;
@@ -44,4 +45,5 @@ footer{
     height: 5vh;
     box-sizing: border-box;
     border-top: .5em solid black;
+    background-color: aqua;
 }
