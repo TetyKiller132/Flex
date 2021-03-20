@@ -51,4 +51,9 @@ footer{
     background-color: #1f441e;
     width: 100vw;
     height: 15vh;
+    text-align: center;
+}
+footer img{
+    width: 10%;
+    height: 100%;
 }

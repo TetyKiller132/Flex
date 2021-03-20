@@ -8,7 +8,7 @@ header{
     height: 15vh;
     box-sizing: border-box;
     border-bottom: .5em solid black;
-    background-color: chartreuse;
+    background-color: #845ec2;
 }
 main{
     height: 85vh;
@@ -20,7 +20,7 @@ main{
     flex-direction: column;
 }
 .container-left div,.container-rigth div{
-    background-color: chartreuse;
+    background-color: #ffc75f;
     box-sizing: border-box;
     border: .5em solid black;
     width: 100%;
@@ -28,5 +28,5 @@ main{
 }
 .container-center{
     width: 60vw;
-    background-color: chartreuse;
+    background-color: #ffc75f;
 }
