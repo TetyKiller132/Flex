@@ -8,3 +8,9 @@
     width: 100vw;
     height: 100vh;
 }
+.container-left{
+    width: 25vw;
+    box-sizing: border-box;
+    border-right: .5em solid black;
+    background-color: brown;
+}
