@@ -7,13 +7,33 @@
 header{
     box-sizing: border-box;
     display: flex;
+    justify-content: space-between;
     border-bottom: 0.5em solid black;
     width: 100vw;
     height: 15vh;
+    
+}
+header .logo{
+    display: flex;
+    margin-top: 1em;
 }
 header .logo img{
-    width: 5%;
-    height: 50%;
+    width: 3rem;
+    height: 3rem;
+}
+header .menu{
+    display: flex;
+}
+header .menu a{
+    padding: 1.5em .5em;
+    margin: .5em;
+    background-color: blue;
+    box-sizing: border-box;
+    border: 1px solid black;
+    text-decoration: none;
+}
+header .menu h1{
+    text-align: center;
 }
 main{
     width: 100vw;
