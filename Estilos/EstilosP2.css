@@ -5,7 +5,7 @@
 }
 header{
     width: 100vw;
-    height: 15bvh;
+    height: 15vh;
     box-sizing: border-box;
     background-color: chocolate;
     border-bottom: .5em solid black;
@@ -13,4 +13,20 @@ header{
 .container-flex{
     display: flex;
     height: 70vh;
+}
+.container-left{
+    width: 25vw;
+    background-color: chocolate;
+    box-sizing: border-box;
+    border-right: .5em solid black;
+}
+.container-center{
+    width: 50vw;
+    background-color: chocolate;
+}
+.container-rigth{
+    width: 25vw;
+    box-sizing: border-box;
+    background-color: chocolate;
+    border-left: .5em solid black;
 }
