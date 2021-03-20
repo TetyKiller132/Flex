@@ -24,6 +24,9 @@ header h1{
     box-sizing: border-box;
     border-right: .5em solid black;
 }
+.container-left ul{
+    padding-left: 1em;
+}
 .container-center{
     width: 50vw;
     background-color: #cee6b4;
