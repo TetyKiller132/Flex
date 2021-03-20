@@ -9,5 +9,11 @@ header{
     box-sizing: border-box;
     border-bottom: .5em solid black;
     background-color: red;
-    
+}
+section{
+    width: 100vw;
+    height: 50vh;
+    box-sizing: border-box;
+    border-bottom: .5em solid black;
+    background-color: red;
 }
