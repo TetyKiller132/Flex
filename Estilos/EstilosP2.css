@@ -11,6 +11,9 @@ header{
     background-color: #1f441e;
     border-bottom: .5em solid black;
 }
+header h1{
+    padding-top: .5em;
+}
 .container-flex{
     display: flex;
     height: 70vh;
