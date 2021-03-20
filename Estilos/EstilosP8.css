@@ -8,8 +8,18 @@ header{
     height: 15vh;
     box-sizing: border-box;
     border-bottom: .5em solid black;
+    background-color: gold;
 }
 main{
     display: flex;
     flex-direction: row;
+    width: 100vw;
+    height: 85vh;
+}
+.container-left, .container-rigth{
+    width: 25vw;
+    height: 100%;
+    background-color: gold;
+    box-sizing: border-box;
+    border-bottom: .5em solid black;
 }
