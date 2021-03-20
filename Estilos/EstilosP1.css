@@ -3,3 +3,10 @@
     padding: 0;
     font-family: Arial;
 }
+header{
+    box-sizing: border-box;
+    width: 100vw;
+    height: 15vh;
+    background-color: blueviolet;
+    border-bottom: .5em solid black;
+}
