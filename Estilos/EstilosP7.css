@@ -17,3 +17,8 @@ section{
     border-bottom: .5em solid black;
     background-color: red;
 }
+.container-flex{
+    display: flex;
+    flex-direction: row;
+    margin: 1em;
+}
