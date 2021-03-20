@@ -31,9 +31,19 @@ section img{
     box-sizing: border-box;
     border: .5em solid black;
     background-color: #f2edd7;
+    text-align: center;
+}
+.container-flex div img{
+    width: 70%;
+    height: 70%;
 }
 footer{
     width: 100vw;
     height: 10vh;
     background-color: #ac0d0d;
+    text-align: center;
+}
+footer img{
+    width: 20%;
+    height: 100%;
 }
