@@ -8,14 +8,18 @@ header{
     height: 15vh;
     box-sizing: border-box;
     border-bottom: .5em solid black;
-    background-color: aqua;
+    background-color: #0278ae;
 }
 .subheader{
     width: 100vw;
     height: 10vh;
     box-sizing: border-box;
     border-bottom: .5em solid black;
-    background-color: aqua;
+    background-color: #0278ae;
+}
+.subheader marquee img{
+    width: 10vw;
+    height: 10vh;
 }
 .container-flex{
     height: 70vh;
@@ -45,5 +49,5 @@ footer{
     height: 5vh;
     box-sizing: border-box;
     border-top: .5em solid black;
-    background-color: aqua;
+    background-color: #0278ae;
 }
