@@ -40,6 +40,10 @@ header{
 .container-rigth *{
     margin: 0em 1em;
 }
+.container-rigth img{
+    width: 95%;
+    height: 70%;
+}
 header h1:only-child, footer h1:only-child{
     text-align: center;
 }
