@@ -9,6 +9,10 @@ header{
     box-sizing: border-box;
     border-bottom: .5em solid black;
     background-color: #0278ae;
+    text-align: center;
+}
+header h1{
+    padding: .5em;
 }
 .subheader{
     width: 100vw;
