@@ -19,7 +19,7 @@ header{
     box-sizing: border-box;
     border-right: .5em solid black;
     width: 25vw;
-    background-color: blueviolet;
+    background-color: #f8f4e1;
 }
 .container-left  img{
     box-sizing: border-box;
@@ -30,7 +30,7 @@ header{
     overflow: hidden;
 }
 .container-left p:first-child{
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .container-rigth{
