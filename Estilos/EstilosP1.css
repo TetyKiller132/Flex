@@ -10,3 +10,17 @@ header{
     background-color: blueviolet;
     border-bottom: .5em solid black;
 }
+.container-flex{
+    display: flex;
+    height: 70vh;
+}
+.container-left{
+    box-sizing: border-box;
+    border-right: .5em solid black;
+    width: 25vw;
+    background-color: blueviolet;
+}
+.container-rigth{
+    width: 75vw;
+    background-color: blueviolet;
+}
