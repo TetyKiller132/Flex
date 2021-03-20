@@ -15,10 +15,23 @@ header{
     height: 70vh;
 }
 .container-left{
+    text-align: center;
     box-sizing: border-box;
     border-right: .5em solid black;
     width: 25vw;
     background-color: blueviolet;
+}
+.container-left  img{
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: .5em solid black;
+    width: 90%;
+    height: 40%;
+    overflow: hidden;
+}
+.container-left p:first-child{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .container-rigth{
     width: 75vw;
