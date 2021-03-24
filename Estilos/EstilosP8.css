@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+header{
+    width: 100vw;
+    height: 15vh;
+    background-color: gold;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 85vh;
+}
+.container-left, .container-rigth{
+    width: 25vw;
+    height: 100%;
+    background-color: gold;
+    box-sizing: border-box;
+    border-bottom: .5em solid black;    
+    border-top: .5em solid black;
+}
+.container-center{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.container-center div{
+    box-sizing: border-box;
+    background-color: gold;
+    width: 100%;
+    height: 100%;
+    border: .5em solid black;
+}
